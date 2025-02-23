@@ -6,3 +6,5 @@ jamy = "swim"
 console.log(jamy)
 console.log(fling)
 console.log(brony)
+let baz="filo"
+console.table([jamy,brony,jamy,baz])
